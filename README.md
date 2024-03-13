@@ -2,7 +2,7 @@
 
 - `build`: perubahan yang memengaruhi sistem build atau dependensi eksternal.
 - `ui`: perubahan pada interface website atau aplikasi.
-- `feat`: fitur baru.
+- `feat`: menambah atau menghapus fitur.
 - `docs`: perubahan pada dokumentasi.
 - `fix`: perbaikan bug.
 - `perf`: perubahan kode yang meningkatkan kinerja.
